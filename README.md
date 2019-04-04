@@ -7,4 +7,4 @@ Il progetto simula il funzionamento di un garage verticale per automobili, è di
 C#, SFC
 
 ## IDE:
-Visual Studio, iFix 5.9, TwinCat
+Visual Studio, iFix 5.9, TwinCat, ADS, OPC
